@@ -1,2 +1,2 @@
 # chennng.github.io
-personl site
+personal site
